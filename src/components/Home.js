@@ -19,7 +19,7 @@ const Home = () => {
                         Your favorite food
                     </h1>
                     <p className="primary-text">
-                        Its your fucking balls 
+                        Hello senior-developer
                     </p>
 
                     <button className="secondary-button">

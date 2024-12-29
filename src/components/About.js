@@ -17,15 +17,15 @@ const About = () => {
         <div className='about-section-text-container'>
             <p className='primary-subheading'>About</p>
             <h1 className='primary-heading'>
-                Chtoto tamm
+                My Favorite restotuant
             </h1>
 
             <p className='primary-text'>
-                Gdetotam
+                I love you my baby
             </p>
 
             <p className='primary-text'>
-                Tutatama
+                Only facts
             </p>
 
             <div className='about-buttons-container'>

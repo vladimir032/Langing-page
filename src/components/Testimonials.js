@@ -10,14 +10,14 @@ const Testimonials = () => {
             <p className='primary-subheading'>Testimonial</p>
             <h1 className='primary-heading'>What they are saying</h1>
             <p className='primary-text'>
-                Opisanie po fanu
+                Textos foros examplos
             </p>
         </div>
 
         <div className='testimonial-section-bottom'>
             <img src={ProfilePic} alt='' />
             <p>
-                Gavno
+                Imba prosto
             </p>
             <div className='testimonials-stars-container'>
                 <AiFillStar />
